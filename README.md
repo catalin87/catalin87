@@ -56,10 +56,13 @@ I am a Senior Software Architect with a passion for building secure, high-scale 
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=catalin87&show_icons=true&theme=transparent&hide_border=true&title_color=3182ce&icon_color=3182ce&text_color=ffffff" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalin87&layout=compact&theme=transparent&hide_border=true&title_color=3182ce&text_color=ffffff" height="170" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=catalin87&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&title_color=3182ce&icon_color=3182ce&text_color=ffffff" height="170" alt="Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalin87&layout=compact&theme=transparent&hide_border=true&title_color=3182ce&text_color=ffffff&langs_count=10&hide=html,css" height="170" alt="Languages" />
 </p>
 
+> [!NOTE]
+> Most of my professional work is conducted within private, enterprise-grade Git instances (Banca Transilvania). My public GitHub activity reflects my contributions to the Open Source community and personal R&D projects like **Spring Prism**.
 ---
 
 ### 📫 Connect with me

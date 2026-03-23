@@ -23,7 +23,15 @@ I am a Senior Software Architect with a passion for building secure, high-scale 
 
 #### **Data & Messaging (Distributed Systems)**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,oracle,redis,rabbitmq,kafka" alt="Data" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" alt="Oracle" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="Postgres" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="Redis" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="45" alt="RabbitMQ" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="45" alt="Kafka" />
 </p>
 
 * **Databases:** PostgreSQL, Oracle DB (Enterprise scale).

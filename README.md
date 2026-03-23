@@ -63,7 +63,7 @@ I am a Senior Software Architect with a passion for building secure, high-scale 
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+* **LinkedIn:** [linkedin.com/in/catalindordea](https://linkedin.com/in/catalindordea)
 * **Project:** [Spring Prism](https://github.com/catalin87/spring-prism)
 * **Email:** [catalin87@gmail.com](mailto:catalin87@gmail.com)
 
